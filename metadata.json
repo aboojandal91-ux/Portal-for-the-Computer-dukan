@@ -1,0 +1,7 @@
+{
+  "name": "PakTech Computer Shop Manager",
+  "description": "A comprehensive management system for small computer shops featuring Admin dashboard for stock, orders, and repairs, and a Customer portal for online shopping and service tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
